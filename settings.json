@@ -1,0 +1,9 @@
+{
+    "name": "learnweb3",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/foundation/core-simple_nft": true
+    }
+}
